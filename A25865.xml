@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Arraignment and condemnation of the late rebels in the West with a discovery of the rise and grounds of their rebellion.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25865</idno>
+            <idno type="STC">Wing A3742</idno>
+            <idno type="STC">ESTC R38509</idno>
+            <idno type="EEBO-CITATION">17526617</idno>
+            <idno type="OCLC">ocm 17526617</idno>
+            <idno type="VID">106542</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25865)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106542)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1626:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Arraignment and condemnation of the late rebels in the West with a discovery of the rise and grounds of their rebellion.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by T.M. (for the author) ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"This may be printed, R.L.S., August 18, 1685.</note>
+                  <note>Imperfect: creased, stained, and tightly bound, with loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monmouth's Rebellion, 1685 --  Moral and ethical aspects.</term>
+               <term>Great Britain --  History --  James II, 1685-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:106542:1" rendition="simple:additions"/>
+            <head>THE ARRAIGNMENT and CONDEMNATION Of the Late <hi>Rebels in the Weſt:</hi> With a Diſcovery of the <hi>RISE</hi> and <hi>GROUNDS</hi> OF THEIR REBELLION.</head>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>This may be Printed.</p>
+                        <closer>
+                           <signed>R.L.S.</signed> 
+                           <dateline>
+                              <date>Auguſt 18. 1685.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>OUr Bleſſed Saviour, after long Preaching and ſhewing Miracles among the <hi>Jews,</hi> finding them ſtill addicted to their own wills, and rather <hi>delighting</hi> in their <hi>old Idolatries,</hi> than de<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous to embrace the <hi>Truths</hi> delive<g ref="char:EOLhyphen"/>red unto them by the Son of God, at la<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſets before them the <hi>Judg<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to the true God: <hi>But I ſay unto you, that it ſhall be more tolerable for the Land of</hi> Sodom <hi>in the day of Judgment, than for <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> A fearful Judgment! <hi>Sodom,</hi> we know, was a place that might be called the Sink of wickedneſs, a Deluge of ſin, nay, a my Hell upon Earth; and yet <hi>it ſhall he more tolerable for that wicked Land of</hi> Sodom <hi>in the Day of Judgment, than for <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> The reaſon we find in the fore-going verſe; <hi>For if the mighty works which have been done in Thee, had been done in</hi> So<g ref="char:EOLhyphen"/>dom, <hi>it had remained unto this day:</hi> thereby convincing them what a ſhame it was to them, that this Land of <hi>Sodom</hi> ſhould have been more ready to obſerve the Dictates of the Son of God, (had they been preach'd to them) than <hi>They,</hi> who could boa<g ref="char:EOLhyphen"/>ſtingly cry, <hi>We have</hi> Abraham <hi>to our Father; We are not born of Fornication; We have one Father, even God,</hi> &amp;c.</p>
+            <p>If <hi>this</hi> was ſo ſtrong an aggravation of the errors of the <hi>Jews</hi> in <hi>thoſe times,</hi> when the name of <hi>Ciriſt</hi> was little known, and his Works but newly publiſh'd to the world; what will it be againſt a <hi>Generation</hi> of men amongſt <hi>us,</hi> who, under a diſguiſe of <hi>Religion, zeal for God's worſhip,</hi> and crying (with the <hi>Phariſee</hi> in the Goſpel) I <hi>am more holy than thou,</hi> renounce all ties of <hi>Re<g ref="char:EOLhyphen"/>ligion</hi> and <hi>Chriſtianity,</hi> break through all <hi>Oaths</hi> and <hi>Sacraments,</hi> and ſteer their courſe ſo far contrary to all human Prudence and Reaſon, that the <hi>Heathens</hi> themſelves, govern'd only by the <hi>Light of Nature,</hi> may reaſonably appear to act far more conſci<g ref="char:EOLhyphen"/>entiouſly than <hi>They,</hi> who boaſt ſo much the name of <hi>Chriſtians?</hi> For, let but any reaſonable man conſider, that is not either an <hi>Actor</hi> in theſe <hi>unchriſtian Proceedings,</hi> or at leaſt a <hi>Well-willer</hi> to them; Whether it be conſonant either to the Commands of our Saviour, the Precepts of Religion, or the Dictates of our own conſciences, to run into theſe many unheard-of Barbarities, as, <hi>Sacriledge, Rebellion, Murther, Rapine,</hi> and other the moſt notorious ſins, and all under the pretence of <hi>Religion? Religion</hi> is made the Cloak for all Deſigns and Miſchiefs that the craft of Man or ſubtlety of the Devil coninvent. Has an <hi>aſpiring Traytor</hi> a mind to put in for a ſharer in the Government, and make a breach in the moſt flouriſhing Commonwealth in the world? <hi>Religion</hi> preſently is the cry; <hi>Religion</hi> muſt be the Warrant for his Treaſon, by the ſtrength of which he need not fear enough to ſide with him, and take his part. Is any <hi>over-jealous</hi> or <hi>hot<g ref="char:EOLhyphen"/>headed Citizen</hi> diſſatisfied with the Government he lives under; or has he run himſelf ſo far into dangerous deſigns, that he fears the Juſtice of his Superiours will overtake and puniſh him? 'tis no more but pretend <hi>an Invaſion in Religion,</hi> (or if it be but a <hi>fear</hi> of one) and preſently he ſhall paſs for a godly conſcientious man, and all his paſt and preſent Offences be waſh'd away with the powerful Ball of <hi>Religion.</hi> Has a <hi>private man</hi> a picque a<g ref="char:EOLhyphen"/>gainſt his Neighbour: would he diſ<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> him, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uine him, or put him to death? It he can but make him a <hi>Papiſt,</hi> (or if it be but a <hi>Papiſt in Maſquerade</hi> 'tis no ſin although he <hi>perjure him<g ref="char:EOLhyphen"/>ſelf</hi> to take away his life; 'twas for the ſake of <hi>Religion</hi> he did it.</p>
+            <p>How many of theſe pretended Zealots have we ſeen within theſe few years, that have not only in their <hi>life-time,</hi> but even to their very <hi>death,</hi> counted it a piece or <hi>Religion,</hi> and glory'd in it too, to reſiſt their lawful Sovereign? never remembring the expreſſion of the Apoſtle, <hi>Whoſoever therefore reſiſteth the Power, reſiſteth the Ordinance of God; and they that reſiſt, ſhall receive to themſelves Damnation.</hi>
+            </p>
+            <p>Good God! what ſtupidity! what ſtrange ſpirit of Deluſion has gotten into the hearts of <hi>Engliſh</hi>-men! Let their <hi>Religion</hi> be in the moſt flouriſhing and proſperous condition in the world; let them inherit the deſired Bleſſings of <hi>Peace</hi> and <hi>Pienty;</hi> let their Darlings of <hi>Liberty</hi> and <hi>Property</hi> be ever ſo ſe<g ref="char:EOLhyphen"/>curely ſettl'd; nay let them have all that they can either deſire or wiſh: If ſome leading men of the <hi>Faction</hi> do but buzz in their ears, <hi>That their Religion is in danger of being ſubverted, their Liberties invaded, and their Properties infring'd,</hi> (though there be neither ſign nor danger of it) preſently they are all in a hubbub: <hi>Lord! what ſhall they do to ſecure their Religion!</hi> when God knows 'tis at the ſame time under the greateſt ſecu<g ref="char:EOLhyphen"/>rity and moſt flouriſhing Proſperity that can be wiſh'd. Thus is that which ought to be the moſt inviolable thing in the world, proſtituted to the baſe deſires and depraved wills of the moſt profligate Villains upon Earth.</p>
+            <p>
+               <hi>Religion</hi> too was the cry of that diabolical Faction who would have <hi>Excluded</hi> the Juſt and Lawful Heir to the Crown, <hi>(His moſt Sacred Majeſty now reigning, whom God grant a long and happy Reign.) Religion! the ſecurity of the Proteſtant Religion,</hi> as continually bawl'd about, when at the ſame time (ſee the ſin e<g ref="char:EOLhyphen"/>rity of theſe Patriots!) they acted contrary not only ſo the <hi>Principles of GOOD Proteſtants,</hi> but even to the <hi>Law of Chriſti<g ref="char:EOLhyphen"/>anity</hi> it ſelf.</p>
+            <p>And the better to promote this Deviliſh Project of <hi>Excluſion,</hi> the Faction caus'd to be Re-printed a Treaſonable Book, pre<g ref="char:EOLhyphen"/>tended to be written by <hi>Do<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eman,</hi> but written indeed by one <hi>Parſons</hi> a Jeſuit, in the Reign of Q. <hi>Elizabeth,</hi> which for the ill Principles contain'd in it was diſown'd by the <hi>Jeſuits Society,</hi> and the Book lately burnt by Sentence of a publick <hi>Convocation</hi> at <hi>Oxford,</hi> From this <hi>Garden</hi> it was our <hi>modern Reformers</hi> gather'd
+<pb facs="tcp:106542:2"/>thoſe precious <hi>Flowers</hi> of EXCLUDING a <hi>Lawful Heir,</hi> and DEPO<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>NG or TAKING OFF a <hi>K<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng,</hi> if to the Common<g ref="char:EOLhyphen"/>we<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſeem meet. Two of w<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>h for the Readers ſa<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>fa<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>on I ſhall <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere tranſcribe: And <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, for the myſtery of <hi>Exclu<g ref="char:EOLhyphen"/>ſion for Religions take,</hi> ſays the counter<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <hi>Do<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eman,</hi> Part 1. cap. 9 pag. 172 <hi>I a<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>irm and hold, that for any man to give his help, <q>con<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ent, or aſſiſtance, towards the making of a King, W<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>m he <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>g<g ref="char:EOLhyphen"/>eth to be, a<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>y in Religion, and conſequently would advance either no Religion, or the wrong, it he were in Authority, is a moſt grie<g ref="char:EOLhyphen"/>vous and damnable ſin to him that doth it,</q> [of what ſide ſoever the Truth be, or how good or bad ſoever the Party be that is preſented.]</hi>
+            </p>
+            <p>Could any thing in the wo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld ſtrike more at the root of a good form of Government that this, which makes every <hi>private individual man</hi> a Judge of his <hi>Prince's Religion;</hi> which if con<g ref="char:EOLhyphen"/>trary to <hi>his <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>king,</hi> he is upon pain of Damnation to reſiſt, with<g ref="char:EOLhyphen"/>ſtand, or under him, according to his Power, from ever inhe<g ref="char:EOLhyphen"/>riting his Right of Dominion; and this without conſidering whether his Religion be <hi>right</hi> or <hi>wrong,</hi> or how <hi>good</hi> or <hi>bad</hi> his Morals may be: If he thinks him <hi>not fit to Reign,</hi> 'tis enough.</p>
+            <p>For the other impious point of <hi>Depoſing Lawful-Kings,</hi> he in<g ref="char:EOLhyphen"/>troduces the Civilian ſpeaking thus: <q>
+                  <hi>By this then you ſee the ground whereon dependeth the righteous and lawful Depoſition of wicked</hi> Princes, <hi>to wit, their failing in their Oaths and Pro<g ref="char:EOLhyphen"/>miſes which they made at their firſt entrance, that they would rule and govern juſtly, according to Law, Conſcience, Equity, and Re<g ref="char:EOLhyphen"/>ligion; wherein when they fail, or wilfully decline, caſting behind them all reſpect of Obligation and Duty, to the end for which they were made Princes, and advanced in Dignity above the reſt, then is the Commonwealth not only free from all Oaths made by her of Obedience or Allegiance to ſuch unworthy Princes, but is</hi> BOUND <hi>mereover, for ſaving the whole Body, to</hi> RESIST, CHASTEN, <hi>and</hi> REMOVE <hi>ſuch</hi> EVIL HEADS, <hi>if ſhe be able, for that o<g ref="char:EOLhyphen"/>therwiſe all would come to Deſtruction, Ruine, and publick De<g ref="char:EOLhyphen"/>ſolation.</hi>
+               </q>
+            </p>
+            <p>There are the pernicious Tenets upon whi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> our Godly <hi>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>naticks,</hi> thoſe <hi>Peſts of Government, deſpiſers of Kingly Power, Devourers of the Church,</hi> and <hi>continual broachers of Sedition and Mutiny,</hi> lay the foundation of their <hi>accurſed Principles,</hi> which need no other Confutation than a bare Recital, every good Subject being (I queſtion not) ſatisfied in the illegality of the Arguments, as well as the Perfidie of thoſe People, who when their clamours are greateſt apainſt <hi>Popery,</hi> even then are they making uſe of Arguments forg'd by the <hi>very worſt of Papiſts,</hi> ſo <hi>brack</hi> ſo <hi>falſe,</hi> and ſo <hi>hurtful</hi> to <hi>Government,</hi> that they are ab<g ref="char:EOLhyphen"/>hor'd even by the <hi>Jeſuits</hi> themſelves; and even then when they pretend the <hi>greateſt Loyalty to the King, Zeal for Religion, and Love to the Government,</hi> are they making uſe of all the Plots that the Devil can invent, to <hi>Murther the One, Prophane the Other</hi> and <hi>Subvert the Third:</hi> Witneſs that <hi>Irreligious Caval,</hi> whoſe caſe for the Preſervation of the late <hi>King</hi> was ſo great, that <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey were never ſatisfied till they had pa<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> a Vote, <hi>That if he <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame to any untimely end, they would Revenge his Bloud to the utmoſt upon the Papiſts;</hi> and yet, when all came to all, <hi>theſe very men</hi> (ſome of them) that ſtickl'd ſo much for the <hi>ſafety of the King,</hi> were the firſt that <hi>entered into a Deſign againſt his Life.</hi> A rare policy! Firſt to <hi>condemn the Innocent;</hi> let who will ſtrike the Fatal blow, the Papiſts muſt pay for't; and after<g ref="char:EOLhyphen"/>wards to endeavour to <hi>perpetrate the execrable Deſign themſelves.</hi> 'Tis a thing ſeldom known, that the <hi>ſame Perſons</hi> ſhould be <hi>Judges, Offenders,</hi> and <hi>Executioners:</hi> 'Twas. <hi>They</hi> made the <hi>Vote, They</hi> deſign'd the <hi>Treaſon,</hi> and 'twas <hi>They</hi> themſelves that werere to do <hi>Execution</hi> upon the <hi>Innocent</hi> for their own Fact. But however ſtrange it may ſeem, 'twas the <hi>True Preteſtants</hi> L<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve to their King, and there's an end on't.</p>
+            <p>To paſs by many other demonſtrations of the Love of theſe <hi>Saints,</hi> come we now to examine ſomewhat concerning this <hi>late Rebellion,</hi> begun, promoted, and carry'd on by the moſt Zealous <hi>Advocates</hi> for the <hi>True Proteſtant Religion</hi> as they call'd it, to expell <hi>Popery,</hi> and maintain the <hi>Liberty</hi> of their Fellow-Subjects againſt <hi>Arbitrary Government:</hi> This was the Pretence, this was the ground, upon which the Sword was drawn againſt Majeſty, which how weak it was, every reaſonable man is able to judge. Was our <hi>Religion</hi> ever <hi>Moleſted?</hi> Was our <hi>Liber<g ref="char:EOLhyphen"/>ties</hi> in <hi>Danger?</hi> Had we any cauſe for the leaſt <hi>Apprehenſion</hi> or <hi>Fear</hi> of either? Did we not ſit every man under his own <hi>Vine,</hi> and under his own <hi>Tig-Tree,</hi> enjoying all the bleſſings of an <hi>O<g ref="char:EOLhyphen"/>bedient People</hi> under a <hi>Merciful Prince?</hi> And yet, contrary to all <hi>Law, Religion,</hi> or <hi>Policy,</hi> theſe are the <hi>Pretences</hi> to a moſt <hi>Bloudy</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nnatural Rebellion.</hi>
+            </p>
+            <p>But the better to cover their <hi>Deſigns</hi> with a pretence (thô a weak one) of <hi>Right,</hi> theſe impious Wretches made uſe of their curſed deluſions for the drawing in that unfortunate Gent. the late <hi>Duke of Mon.</hi> Whom as they only made uſe of as a <hi>Cloak</hi> for their <hi>Villany,</hi> ſo, had they once attain'd their ends, and Heav'n permitted them to proſper in their Deviliſh underta<g ref="char:EOLhyphen"/>kings, they would not only have thrown him from that Heigth to which by their Rebellious Arms he had been advanc'd, but <hi>depriv'd him even of his Life</hi> it ſelf; 'tis bloud alone that muſt ſatisfie the thirſt of theſe devouring <hi>Canibals;</hi> theſe Sanguina<g ref="char:EOLhyphen"/>ry Devils delight in nothing but Bloud and Deſtructign.</p>
+            <p>How great was the hope of this ſanctified Crew? How did they pleaſe themſelves with the thoughts of being glutted not only with the Bloud of all thoſe whom they would brand with the name of <hi>Papiſts,</hi> but even of <hi>His Sacred Majeſty</hi> himſelf, the <hi>Lords Anointed!</hi> With what notorious falſities did they daily fill the ears of the People, <hi>That the</hi> D. <hi>of</hi> Albemarl <hi>was kill'd, the Real Army Routed, that hundreds of the Kings Army had deſerted the Camp, and fled to the Rebets;</hi> And what was the intent of all theſe ſtories, but only to encourage and animate others to riſe in <hi>Rebellion</hi> againſt their <hi>Sovereign,</hi> by the ſucceſs they ſug<g ref="char:EOLhyphen"/>geſted theſe <hi>Infamous Rebels</hi> to have had, and by the goodneſs of their Cauſe from the increaſe of their Army? But thanks be to God their <hi>Deſigns</hi> are fruſtrate, the Diadem ſits unmov'd on the Head of <hi>Him</hi> where <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Him and His Poſterity may it continue, as long as the Sun and Moon ſhall endure.</hi>
+            </p>
+            <p>And now conſider, <hi>you</hi> that have been ſo eager in the Pro<g ref="char:EOLhyphen"/>motion of this <hi>Rebellion,</hi> Whether, the <hi>Almighty Providence</hi> was not ſignally manife<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed in the event of ſins (ſhort, but ſharp) War? Had not the <hi>Rebells</hi> all the advantage they could with? Did they not make uſe o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſheeter of a <hi>Night</hi> as black as their own <hi>Souls?</hi> Nay, were they not come within Muſquet ſhot before they were diſcover'd? And yet when they had <hi>all theſe Advantages,</hi> when there was <hi>nothing in the Art of Man</hi> ſeem'd able to <hi>withſtand them,</hi> when they thought themſelves ſecure even beyond the reach of Heaven it ſelf, <hi>then</hi> even <hi>then,</hi> in the mide of their greateſt ſecurity, the <hi>Almighty Deliverer,</hi> (who alone giveth Victory) ſpread his Wings over his <hi>Anointed,</hi> and his <hi>Cauſe,</hi> ſhelter'd them from the Cruelty of their Enemies, and brought a total overthrow upon the <hi>Rebells.</hi>
+            </p>
+            <p>O Then let every good Subject remember the <hi>day of their Deliverance,</hi> and give thanks to <hi>that God alone</hi> who <hi>ſav'd them</hi> from the hands of the <hi>Crueleſt of Enemies.</hi> Nor let it be only remembred by the <hi>good,</hi> but even by the <hi>bad Subjects;</hi> Let it for ever be a means to <hi>deter them</hi> from liſting up accurſed hands againſt their <hi>Prince;</hi> let it <hi>fright them</hi> into <hi>Obedience,</hi> that <hi>they</hi> conſidering the <hi>care</hi> of the <hi>Almighty</hi> over his <hi>Vice-gerent,</hi> may <hi>forſake</hi> the Error of their ways, <hi>leave off</hi> that old pretence of <hi>Religion</hi> to countenance their wickedneſs, <hi>baniſh</hi> their <hi>needleſs fears</hi> of <hi>Popery</hi> and <hi>Arbitrary Government,</hi> and numbly <hi>ſubmit themſelves</hi> to the diſpoſal of <hi>God</hi> and their <hi>King;</hi> ſo ſhall the <hi>Monarchs Crown Sit eaſie on his Head,</hi> and <hi>the Subjects Yoak be pleaſant on their Shoulders,</hi> ſo ſhall the <hi>black Cloud</hi> be di<g ref="char:EOLhyphen"/>ſpers'd, and <hi>England</hi> again become the <hi>moſt glorious Nation in the World.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>T.M.</hi> (for the Author) in the Year 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
